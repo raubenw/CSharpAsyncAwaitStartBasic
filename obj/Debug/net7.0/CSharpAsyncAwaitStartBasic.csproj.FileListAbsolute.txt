@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\bin\Debug\net7.0\CSharpAsyncAwaitStartBasic.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\bin\Debug\net7.0\CSharpAsyncAwaitStartBasic.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\bin\Debug\net7.0\CSharpAsyncAwaitStartBasic.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\bin\Debug\net7.0\CSharpAsyncAwaitStartBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\bin\Debug\net7.0\CSharpAsyncAwaitStartBasic.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\refint\CSharpAsyncAwaitStartBasic.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\CSharpAsyncAwaitStartBasic.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpAsyncAwaitStartBasic\obj\Debug\net7.0\ref\CSharpAsyncAwaitStartBasic.dll
